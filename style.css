@@ -1,0 +1,13 @@
+.flex {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.first_task button {
+	margin-bottom: 15px;
+}
+
+#table, tr, td, th{
+	border: 1px solid black;
+}
